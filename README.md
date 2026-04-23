@@ -146,11 +146,11 @@ Customer bisa:
 - **```GET /menus``` → lihat daftar menu**
 - **```POST /menus``` → tambah menu (Admin only)**
 - **```PUT /menus/{id}``` → update menu (Admin only)**
-- **```DELETE /menus/{id}``` → hapus menu (Admin only)***
+- **```DELETE /menus/{id}``` → hapus menu (Admin only)**
 
 # Cart
-- **```GET /cart``` → lihat isi cart (Customer only)***
-- **```POST /cart``` → tambah item ke cart (Customer only)***
+- **```GET /cart``` → lihat isi cart (Customer only)**
+- **```POST /cart``` → tambah item ke cart (Customer only)**
 - **```PUT /cart/{id}``` → update quantity item (Customer only)**
 - **```DELETE /cart/{id}``` → hapus item dari cart (Customer only)**
 
