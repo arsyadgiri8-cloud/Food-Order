@@ -145,7 +145,7 @@ Customer bisa:
 # Menu
 - **```GET /menus``` → lihat daftar menu**
 - **```POST /menus``` → tambah menu (Admin only)**
-- **```PUT /menus/{id} → update menu (Admin only)**
+- **```PUT /menus/{id}``` → update menu (Admin only)**
 - **```DELETE /menus/{id}``` → hapus menu (Admin only)***
 
 # Cart
