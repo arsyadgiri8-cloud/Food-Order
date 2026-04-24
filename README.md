@@ -1,6 +1,7 @@
 # 🍽️ Food Order REST API
 
 Food Order REST API adalah project backend sederhana yang dibuat untuk mensimulasikan alur pemesanan makanan secara online.  
+
 Di dalam project ini, user bisa register dan login, melihat menu, menambahkan menu ke cart, melakukan checkout, melihat riwayat pesanan, dan untuk admin juga tersedia fitur laporan penjualan.
 
 Project ini dibuat menggunakan **Java Spring Boot** dan fokus pada implementasi backend yang rapi, aman, dan realistis untuk kebutuhan latihan, tugas, maupun portfolio dasar backend developer.
